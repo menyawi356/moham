@@ -1,0 +1,13 @@
+p,div,h1,h2,h3,title {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif ;
+    opacity: 1;
+}
+body{
+    background-image:urL("OIP.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
